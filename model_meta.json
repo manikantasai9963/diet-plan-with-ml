@@ -1,0 +1,32 @@
+{
+  "accuracy": 0.9956,
+  "accuracy_pct": 99.56,
+  "train_samples": 13758,
+  "test_samples": 3440,
+  "total_samples": 17198,
+  "features": [
+    "calories",
+    "fat",
+    "sugar",
+    "sodium",
+    "protein"
+  ],
+  "classes": [
+    "Healthy",
+    "Moderate",
+    "Unhealthy"
+  ],
+  "n_estimators": 200,
+  "feature_importances": {
+    "calories": 0.2492,
+    "fat": 0.1786,
+    "sugar": 0.1925,
+    "sodium": 0.2358,
+    "protein": 0.1439
+  },
+  "label_distribution": {
+    "Healthy": 10487,
+    "Moderate": 4379,
+    "Unhealthy": 2332
+  }
+}

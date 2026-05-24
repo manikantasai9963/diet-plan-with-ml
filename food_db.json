@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Pizza",
+    "calories": 500,
+    "fat": 25,
+    "sugar": 8,
+    "sodium": 900,
+    "protein": 20,
+    "label": "Unhealthy"
+  },
+  {
+    "name": "Salad",
+    "calories": 120,
+    "fat": 4,
+    "sugar": 3,
+    "sodium": 100,
+    "protein": 6,
+    "label": "Healthy"
+  },
+  {
+    "name": "Burger",
+    "calories": 450,
+    "fat": 22,
+    "sugar": 7,
+    "sodium": 850,
+    "protein": 18,
+    "label": "Unhealthy"
+  }
+]
